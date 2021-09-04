@@ -1,0 +1,3 @@
+# Seoul-Bike-Rental-Prediction
+This was our team's submission to the Seoul Bike Rental Prediction - AI-Pro - ITI.
+Predict demand of rental bikes everyday based on some features about weather conditions, time,season, .....
